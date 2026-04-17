@@ -1,7 +1,5 @@
 # 🇯🇵 Kibou Assistant (希望)
-
-**Kibou Assistant** (Hope) is an AI-powered educational platform designed specifically for students applying for the **Japanese Government (MEXT) Scholarship**. The tool serves as an intelligent tutor for solving past papers and a rigorous interviewer to prepare candidates for the final selection stages.
-
+Kibou Assistant is a smart educational tool built for students applying for the MEXT KOSEN Scholarship (College of Technology). This app helps students solve difficult engineering exams and prepares them for the embassy interview using AI.
 ## 🚀 Features
 
 * **Subject Pathways:** Dedicated modules for **Mathematics**, **Physics**, **Chemistry**, and **English** past papers.
